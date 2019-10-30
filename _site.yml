@@ -1,0 +1,17 @@
+name: "Tianchen Liu"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "About"
+      href: about.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<ltc15861996149@163.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/15715175/
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/tianchen_Liu
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/tianchen-liu-0b3118148/
+output:
+  html_document
