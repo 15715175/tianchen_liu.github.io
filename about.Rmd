@@ -4,6 +4,6 @@ title: "About"
 
 ### About this site
 
-Sometimes you need to say a bit about the site -- how it was made, where it's hosted, where the source code can be found. 
+This is Tianchen Liu's blog
 
-If this is for a project or analysis, I recommend giving some details about the R package versions that you used to create the content.
+About this blog: I’ll be posting ideas we find interesting, contributing to discussion of coding and , linking to articles that inspire us, and sharing advice with up-and-coming statisticians.
